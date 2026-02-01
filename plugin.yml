@@ -1,0 +1,5 @@
+name: AntiBypassPro
+version: 1.0
+main: me.antibypass.AntiBypassPro
+api-version: 1.21
+depend: [PacketEvents]
